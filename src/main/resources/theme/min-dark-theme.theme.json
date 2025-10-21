@@ -1,0 +1,52 @@
+{
+  "name": "Min Dark Theme",
+  "dark": true,
+  "author": "Enzo Velo",
+  "editorScheme": "/min-dark-theme.xml",
+
+  "ui": {
+    "*": {
+      "background": "#1A1A1A",
+      "foreground": "#888888",
+      "selectionBackground": "#212121",
+      "selectionForeground": "#F5F5F5",
+      "focusColor": "#444444"
+    },
+    "Editor": {
+      "background": "#1f1f1f"
+    },
+    "ToolWindow": {
+      "background": "#1A1A1A",
+      "Header.background": "#202020"
+    },
+    "Tabs": {
+      "background": "#1A1A1A",
+      "selectedBackground": "#1f1f1f",
+      "selectedForeground": "#FAFAFA",
+      "inactiveForeground": "#727272"
+    },
+    "StatusBar": {
+      "background": "#1A1A1A",
+      "foreground": "#7E7E7E"
+    },
+    "Button": {
+      "background": "#333333",
+      "foreground": "#C1C1C1"
+    },
+    "List": {
+      "background": "#1A1A1A",
+      "selectionBackground": "#212121",
+      "hoverBackground": "#262626"
+    },
+    "TextField.background": "#2A2A2A",
+
+    "Tree.rowHeight": 24,
+
+    "Tree.leftChildIndent": 10,
+    "Tree.rightChildIndent": 10,
+
+    "Tree.paintLines": true,
+
+    "Tree.hash": "#383838"
+  }
+}

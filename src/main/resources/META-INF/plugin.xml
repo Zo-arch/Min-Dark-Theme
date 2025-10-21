@@ -6,10 +6,8 @@
 
     <depends>com.intellij.modules.platform</depends>
 
-    <resource-bundle>messages.MyBundle</resource-bundle>
-
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.zoarch.mindarktheme.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
-        <postStartupActivity implementation="com.github.zoarch.mindarktheme.startup.MyProjectActivity" />
+        <themeProvider id="com.github.zoarch.mindarktheme" path="/theme/min-dark-theme.theme.json" />
+        <editorColorSchemeProvider implementation="com.intellij.theme.provider.DefaultColorSchemesProvider"/>
     </extensions>
 </idea-plugin>
