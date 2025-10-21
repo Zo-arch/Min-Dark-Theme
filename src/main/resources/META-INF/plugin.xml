@@ -2,7 +2,20 @@
 <idea-plugin>
     <id>com.github.zoarch.mindarktheme</id>
     <name>Min-Dark-Theme</name>
+    <version>1.0.0</version>
     <vendor>zo-arch</vendor>
+
+    <description><![CDATA[
+        A minimal and clean theme for JetBrains IDEs. <br/>
+        Ported from the VS Code Min Theme by Miguel Solorio.
+    ]]></description>
+
+    <change-notes><![CDATA[
+        <em>1.0.0</em>
+        <ul>
+          <li>Initial release.</li>
+        </ul>
+    ]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>
 
