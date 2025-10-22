@@ -39,11 +39,8 @@ This theme includes both a **UI Theme** (interface colors) and a **Color Scheme*
 
 Here are some screenshots of Min Dark Theme in action:
 
-![IntelliJ IDEA with Java code](<img width="1353" height="1092" alt="Captura de tela de 2025-10-20 13-09-30" src="https://github.com/user-attachments/assets/99ee2a06-d307-42c4-90e9-56ba54c9dce6" />)
+![IntelliJ IDEA with Java code](https://github.com/user-attachments/assets/99ee2a06-d307-42c4-90e9-56ba54c9dce6)
 *(Example: IntelliJ IDEA with Java code)*
-
-![WebStorm with JavaScript code](https://github.com/user-attachments/assets/5fda40f8-7f8a-4ca4-a88f-006bc120f116)
-*(Example: WebStorm with JavaScript code)*
 
 ## 🤝 Contribution
 
