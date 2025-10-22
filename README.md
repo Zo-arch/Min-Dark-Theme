@@ -1,6 +1,6 @@
 # Min Dark Theme for IntelliJ-based IDEs
 
-[![Min Dark Theme - JetBrains Marketplace Library Cover](<img width="1200" height="760" alt="banner" src="https://github.com/user-attachments/assets/6eef5fc6-7bdd-4977-b0ca-26e4a28cf42c" />))](https://plugins.jetbrains.com/plugin/28805-min-dark-theme/)
+[![Min Dark Theme - JetBrains Marketplace Library Cover](https://github.com/user-attachments/assets/6eef5fc6-7bdd-4977-b0ca-26e4a28cf42c)](https://plugins.jetbrains.com/plugin/28805-min-dark-theme/)
 
 A minimalist and elegant dark theme for IntelliJ IDEA and other JetBrains IDEs, ported from the popular [Min Theme for VS Code](https://github.com/miguelsolorio/min-theme) by [Miguel Solorio](https://github.com/miguelsolorio).
 
@@ -17,13 +17,13 @@ Min Dark Theme focuses on clarity, soft contrast, and a clean design for a comfo
 
 ### Via JetBrains Marketplace
 
-1.  Open your JetBrains IDE.
-2.  Go to `Settings/Preferences (Ctrl+Alt+S or Cmd+,)`
-3.  Navigate to `Plugins`.
-4.  Click the `Marketplace` tab.
-5.  Search for "Min Dark Theme".
-6.  Click `Install`.
-7.  Restart the IDE when prompted.
+1.  Open your JetBrains IDE.
+2.  Go to `Settings/Preferences (Ctrl+Alt+S or Cmd+,)`
+3.  Navigate to `Plugins`.
+4.  Click the `Marketplace` tab.
+5.  Search for "Min Dark Theme".
+6.  Click `Install`.
+7.  Restart the IDE when prompted.
 
 After installation, go to `Settings/Preferences > Appearance & Behavior > Appearance` and select "Min Dark Theme" from the `Theme` dropdown.
 
@@ -31,31 +31,30 @@ After installation, go to `Settings/Preferences > Appearance & Behavior > Appear
 
 This theme includes both a **UI Theme** (interface colors) and a **Color Scheme** (code editor colors). IntelliJ should apply them together, but if your code editor doesn't change:
 
-1.  Go to `Settings/Preferences > Editor > Color Scheme`.
-2.  In the `Scheme` dropdown, select **"Min Dark Theme"**.
-3.  Click `Apply` or `OK`.
+1.  Go to `Settings/Preferences > Editor > Color Scheme`.
+2.  In the `Scheme` dropdown, select **"Min Dark Theme"**.
+3.  Click `Apply` or `OK`.
 
 ## 📸 Screenshots
 
 Here are some screenshots of Min Dark Theme in action:
 
-](<img width="1647" height="670" alt="Captura de tela de 2025-09-02 18-04-11" src="https://github.com/user-attachments/assets/ff77d7ac-b06c-47ee-9624-5c4dd4105974" />
-)
+![IntelliJ IDEA with Java code](https://github.com/user-attachments/assets/ff77d7ac-b06c-47ee-9624-5c4dd4105974)
 *(Example: IntelliJ IDEA with Java code)*
 
-![Min Dark Theme Screenshot 2](<img width="1467" height="642" alt="Captura de tela de 2025-10-22 11-24-45" src="https://github.com/user-attachments/assets/5fda40f8-7f8a-4ca4-a88f-006bc120f116" />)
+![WebStorm with JavaScript code](https://github.com/user-attachments/assets/5fda40f8-7f8a-4ca4-a88f-006bc120f116)
 *(Example: WebStorm with JavaScript code)*
 
 ## 🤝 Contribution
 
 Contributions are always welcome! If you find a bug, have a suggestion for improvement, or want to add support for a specific language, please:
 
-1.  Open an [Issue](https://github.com/Zo-arch/Min-Dark-Theme/issues) with your suggestion or bug report.
-2.  `Fork` the project.
-3.  Create a new `branch` (`git checkout -b feature/your-feature-here`).
-4.  Make your changes and `commit` (`git commit -am 'feat: add new feature'`).
-5.  `Push` to the `branch` (`git push origin feature/your-feature-here`).
-6.  Open a [Pull Request](https://github.com/Zo-arch/Min-Dark-Theme/pulls).
+1.  Open an [Issue](https://github.com/Zo-arch/Min-Dark-Theme/issues) with your suggestion or bug report.
+2.  `Fork` the project.
+3.  Create a new `branch` (`git checkout -b feature/your-feature-here`).
+4.  Make your changes and `commit` (`git commit -am 'feat: add new feature'`).
+5.  `Push` to the `branch` (`git push origin feature/your-feature-here`).
+6.  Open a [Pull Request](https://github.com/Zo-arch/Min-Dark-Theme/pulls).
 
 ## 📄 License
 
