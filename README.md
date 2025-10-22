@@ -1,6 +1,6 @@
 # Min Dark Theme for IntelliJ-based IDEs
 
-[![Min Dark Theme - JetBrains Marketplace Library Cover]())](https://plugins.jetbrains.com/plugin/28805-min-dark-theme/)
+[![Min Dark Theme - JetBrains Marketplace Library Cover](<img width="1200" height="760" alt="banner" src="https://github.com/user-attachments/assets/6eef5fc6-7bdd-4977-b0ca-26e4a28cf42c" />))](https://plugins.jetbrains.com/plugin/28805-min-dark-theme/)
 
 A minimalist and elegant dark theme for IntelliJ IDEA and other JetBrains IDEs, ported from the popular [Min Theme for VS Code](https://github.com/miguelsolorio/min-theme) by [Miguel Solorio](https://github.com/miguelsolorio).
 
@@ -39,24 +39,23 @@ This theme includes both a **UI Theme** (interface colors) and a **Color Scheme*
 
 Here are some screenshots of Min Dark Theme in action:
 
-http://googleusercontent.com/image_generation_content/1
-
-](https://i.imgur.com/your-screenshot-id-1.png)
+](<img width="1647" height="670" alt="Captura de tela de 2025-09-02 18-04-11" src="https://github.com/user-attachments/assets/ff77d7ac-b06c-47ee-9624-5c4dd4105974" />
+)
 *(Example: IntelliJ IDEA with Java code)*
 
-![Min Dark Theme Screenshot 2](https://i.imgur.com/your-screenshot-id-2.png)
+![Min Dark Theme Screenshot 2](<img width="1467" height="642" alt="Captura de tela de 2025-10-22 11-24-45" src="https://github.com/user-attachments/assets/5fda40f8-7f8a-4ca4-a88f-006bc120f116" />)
 *(Example: WebStorm with JavaScript code)*
 
 ## 🤝 Contribution
 
 Contributions are always welcome! If you find a bug, have a suggestion for improvement, or want to add support for a specific language, please:
 
-1.  Open an [Issue](https://github.com/Zo-arch/Min-Theme-Intellij/issues) with your suggestion or bug report.
+1.  Open an [Issue](https://github.com/Zo-arch/Min-Dark-Theme/issues) with your suggestion or bug report.
 2.  `Fork` the project.
 3.  Create a new `branch` (`git checkout -b feature/your-feature-here`).
 4.  Make your changes and `commit` (`git commit -am 'feat: add new feature'`).
 5.  `Push` to the `branch` (`git push origin feature/your-feature-here`).
-6.  Open a [Pull Request](https://github.com/Zo-arch/Min-Theme-Intellij/pulls).
+6.  Open a [Pull Request](https://github.com/Zo-arch/Min-Dark-Theme/pulls).
 
 ## 📄 License
 
