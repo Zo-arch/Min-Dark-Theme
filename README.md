@@ -2,9 +2,11 @@
 
 [![Min Dark Theme - JetBrains Marketplace Library Cover](https://github.com/user-attachments/assets/6eef5fc6-7bdd-4977-b0ca-26e4a28cf42c)](https://plugins.jetbrains.com/plugin/28805-min-dark-theme/)
 
+<!-- Plugin description -->
 A minimalist and elegant dark theme for IntelliJ IDEA and other JetBrains IDEs, ported from the popular [Min Theme for VS Code](https://github.com/miguelsolorio/min-theme) by [Miguel Solorio](https://github.com/miguelsolorio).
 
 Min Dark Theme focuses on clarity, soft contrast, and a clean design for a comfortable and productive coding experience.
+<!-- Plugin description end -->
 
 ## ✨ Features
 
